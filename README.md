@@ -29,7 +29,7 @@ Early projects built while learning HTML/CSS/JS — simple by design, kept here 
 
 ## Tools & Methods
 
-`Python` · `MATLAB` · `PsychToolbox` · EEG acquisition & preprocessing · Neuropixels/electrophysiology analysis · Targeted Dimensionality Reduction · Statistical modeling
+`Python` · `MATLAB` · `PsychToolbox` · `C++` · `Javascript` · EEG acquisition & preprocessing · Neuropixels/electrophysiology analysis · Targeted Dimensionality Reduction · Statistical modeling
 
 ---
 
