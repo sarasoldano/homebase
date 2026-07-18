@@ -1,10 +1,10 @@
-# Hi, I'm Sara 👋
+# hi! i'm sara :)
 
 Computational cognitive scientist working at the intersection of brain, behavior, and computation. MSc Cognitive Science & Neuroscience @ University of Edinburgh — moving toward industry research in neurotech and computational neuroscience.
 
 ---
 
-## 🔬 Research Focus
+## Research Focus
 
 I study how populations of neurons represent and transform information — using electrophysiology, dimensionality reduction, and behavioral experiments to link brain activity to cognition.
 
@@ -14,7 +14,7 @@ I study how populations of neurons represent and transform information — using
 
 ---
 
-## 🧠 Projects
+## Projects
 
 ### Research & Analysis Code
 - *(Coming soon)* — Neuropixels/TDR dissertation pipeline, EEG preprocessing scripts, and PsychToolbox experiment templates will live here as they're cleaned up for public repos.
@@ -27,7 +27,7 @@ Early projects built while learning HTML/CSS/JS — simple by design, kept here 
 
 ---
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 
 `Python` · `MATLAB` · `PsychToolbox` · EEG acquisition & preprocessing · Neuropixels/electrophysiology analysis · Targeted Dimensionality Reduction · Statistical modeling
 
@@ -35,18 +35,18 @@ Early projects built while learning HTML/CSS/JS — simple by design, kept here 
 
 ## 📄 Publications
 
-- *(bioRxiv preprint title)* — [link]
-- *(Journal of Vision abstract 1)* — [link]
-- *(Journal of Vision abstract 2)* — [link]
+- *Individual alpha frequency predicts the sensitivity of time perception* — [Link](https://www.researchgate.net/publication/404920903_Individual_alpha_frequency_predicts_the_sensitivity_of_time_perception)
+- *(How does subjective confidence influence multisensory integration?)* — [Link](https://www.researchgate.net/publication/384417656_How_does_subjective_confidence_influence_multisensory_integration)
+- *(The Role of Alpha Oscillations in Perceiving Visual Durations)* — [Link](https://www.researchgate.net/publication/384405228_The_Role_of_Alpha_Oscillations_in_Perceiving_Visual_Durations)
 
 ---
 
-## 🌱 Currently
+## Currently
 
 Finishing my MSc at Edinburgh (2026) and looking for research roles at the intersection of neuroscience and computation — neurotech, consumer neuroscience, computational neuroscience.
 
 ---
 
-## 📫 Connect
+## Connect
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](www.linkedin.com/in/saraasoldaano) · [Email](sarasoldano01@gmail.com)
